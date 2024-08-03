@@ -1,0 +1,71 @@
+project:
+  type: website
+  pre-render:
+    - site-attachments/packages.R
+    - site-attachments/purl-r-scripts.R
+  post-render: 
+   # - site-attachments/docx2pdf.R
+    - site-attachments/create-example-folder.R
+  render: 
+    - "*.qmd"
+    - "!ignored/"
+    - "!site-attachments/quarto-template.qmd"
+  # resources:
+  #   - CNAME
+    
+website:
+  title: "EDH 7916"
+  site-url: "https://capaldi.info/7916"
+  description: "Course website for EDH 7916 at the University of Florida"
+  image: "apple-touch-icon.png"
+  favicon: "apple-touch-icon.png"
+  twitter-card: true
+  open-graph: true
+  navbar: false
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - index.qmd
+      - text: "Syllabus"
+        file: "syllabus.qmd"
+      - section: "Getting Started"
+        contents: "*set*" # glob search for files with Setup
+      - section: "Data Wrangling"
+        contents: "*wrangle*"
+      - section: "Data Visualization"
+        contents: "*viz*"
+      - section: "Quarto"
+        contents: "*quarto*"
+      - text: "Functions & Loops"
+        file: "11-pro-functions.qmd"
+      - text: "Bringing it All Together (Feat. Basic Models)"
+        file: "12-pro-model.qmd"
+      - text: "Final Project"
+        file: "99-final.qmd"
+      - section: "Extra Credit"
+        contents: "*x-*"
+    collapse-level: 1
+
+  page-footer:
+    right: 
+      - text: "Built with Quarto"
+        href: https://quarto.org/docs/websites
+      - icon: github
+        aria-label: Website Code Available Here
+        href: https://github.com/ttalVlatt/7916
+    left:
+      - text: "M.J. Capaldi"
+        href: https://capaldi.info
+
+      
+format:
+  html:
+    theme: lux
+    css: site-attachments/styles.css
+    toc: false
+    email-obfuscation: references
+    anchor-sections: false
+
+editor: source
+
