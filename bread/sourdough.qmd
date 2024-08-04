@@ -1,0 +1,43 @@
+---
+title: Pain de Campagne
+format: recipe-card-typst
+---
+
+`#line(length: 75%)`{=typst}
+
+<!-- https://typst.app/universe/package/fontawesome/ -->
+
+`#import "@preview/fontawesome:0.4.0": *`{=typst}
+
+`#fa-icon("basket-shopping") #text(1.5em)[#underline[Ingredients]]`{=typst}
+
+- 450g bread flour
+- 50g whole wheat flour
+- 400g water
+- 10g salt
+- 20g (1 tbsp) sourdough discard
+
+`#fa-icon("fire-burner") #text(1.5em)[#underline[Directions]]`{=typst}
+
+1. Combine all ingredients by hand into wet shaggy mess
+2. Wait 15 mins then fold dough 3 times
+3. Cover to proof on counter for 12+ hours
+4. Lay dough out on floured surface
+    - Optional: Cover dough with adjuncts (olives, sun dried tomatoes, etc.)
+5. Shape into a round, cover, and rest for 15-20 mins
+6. Shape into a batard, place in floured baneton, and rest in fridge for 8 hours
+7. Preheat bread pan in oven to 450&deg; F
+8. Flip dough from baneton to parchment paper and score the top with lame
+
+```{=typst}
+#block(inset: 0.25em)[
+      #text(weight: "bold", size: 2em)[Pain de Campagne (cont.)]
+    ]
+#line(length: 75%)
+```
+
+9. Place dough in hot pan, add a drop water each side, place lid on, 
+`\`{=typst}
+and put in oven
+10. Bake for 20 mins lid on, then 25 mins lid off
+
