@@ -1,10 +1,3 @@
-/* Hide content on the index page
-#quarto-document-content {
-  background-color: blue;
-  /*display: none;
-}
-*/
-
 #quarto-sidebar {
   background-color: #fbf9c2;
   width: 100dvw !important;
@@ -19,5 +12,5 @@
 }
 
 .quarto-btn-toggle {
-    display: none !important; /* Ensure the button is not displayed */
+    display: none !important;
 }

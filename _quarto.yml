@@ -31,9 +31,7 @@ website:
 format:
   html:
     theme: sketchy
-    #page-layout: custom
     css: styles.css
-    # https://fonts.google.com/specimen/Neucha
     mainfont: Bradley Hand
     fontsize: 20pt
     email-obfuscation: references
