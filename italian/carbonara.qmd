@@ -1,0 +1,27 @@
+---
+title: Carbonara
+format: recipe-card-typst
+---
+
+`#line(length: 75%)`{=typst}
+
+A quick and simple Italian staple inspired by James May's 'Oh Cook!'
+
+`#text(1.5em)[#underline[Ingredients]]`{=typst}
+
+- 1/4lb pancetta
+- 3 cloves garlic
+- 1lb of chopped mushrooms
+- 1 whole egg plus 1 egg yolk
+- 3/4 cup parmesan cheese
+- 2 cups penne (or other pasta)
+
+`#text(1.5em)[#underline[Directions]]`{=typst}
+
+1. Mix eggs & cheese and set aside
+2. Boil pasta for 10 mins
+3. Fry off pancetta & garlic on medium heat until browned then drain excess grease
+5. Add mushrooms and fry until soft
+6. Drain cooked pasta and add to mix
+7. Add egg & cheese mix, begin stirring immediately
+8. Kill the heat but continue stirring mix for 2-3 mins

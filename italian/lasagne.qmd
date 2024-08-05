@@ -1,0 +1,55 @@
+---
+title: Lasagne
+format: recipe-card-typst
+---
+
+`#line(length: 75%)`{=typst}
+
+A slight twist on a classic dish perfect for an Italian Christmas Eve
+
+`#text(1.5em)[#underline[Ingredients]]`{=typst}
+
+- 1 pack of lasagne sheets
+- 1/2 cup parmesan cheese (to sprinkle on top)
+- Meat sauce
+  - Spicy Italian sausage (or sweet)
+  - 1 red onion
+  - 3 cloves garlic
+  - 2 tbsp dried sofrito
+  - 1 tbsp paprika
+  - 1 tbsp oregano, thyme, & basil
+  - 1 eggplant
+  - 1 poblano chili or other mild chili (optional)
+  - 1 large can plum tomatoes
+  - 250ml full-bodied dry red wine
+- White sauce
+  - 12oz mascarpone
+```{=typst}
+#block(inset: 0.25em)[
+      #text(weight: "bold", size: 2em)[Lasagne (cont.)]
+    ]
+#line(length: 75%)
+```
+- White sauce (cont.)  
+  - 3/4 cup parmesan
+  - 1/2 cup milk
+  - Nutmeg to taste (optional)
+
+
+
+
+`#text(1.5em)[#underline[Directions]]`{=typst}
+
+1. Fry off onion & garlic until soft
+2. Add herbs and seasonings and cook for 1 min
+3. Add sausages fry until brown
+4. Add eggplant fry until soft
+5. Deglaze the pan with red wine for 1 min
+6. Add the tomatoes and turn heat down to simmer
+7. Mix cheese sauce ingredients in a large bowl
+8. Layer large rectangular dish with 1/3 sauce
+9. Coat lasagne sheets in cheese sauce then layer on top
+10. Repeat 7 and 8 until out of sauce
+11. Sprinkle parmesan cheese on top
+12. Bake on 350&deg; F for 30 mins until edges start to brown
+

@@ -1,0 +1,37 @@
+---
+title: Steak Ragu
+format: recipe-card-typst
+---
+
+`#line(length: 75%)`{=typst}
+
+Capaldi's classic slow-cooked ragu
+
+`#text(1.5em)[#underline[Ingredients]]`{=typst}
+
+- 1 white onion
+- 3 cloves garlic
+- 1 tbsp dried basil
+- 2 tbsp dried sofrito
+- 1lb chunks of flank steak (high quality)
+- 1lb chopped mushrooms
+- 800g can of tomatoes (high quality)
+- 250ml bottle dry full-bodied red wine (Zinfandel)
+- Fresh parmesan cheese (to serve)
+
+`#text(1.5em)[#underline[Directions]]`{=typst}
+
+1. Fry off chopped onion & garlic until soft
+2. Add sofrito & dried basil and fry for 1 minute
+3. Add steak, season with salt and pepper, and fry until sealed
+4. Add mushrooms and fry until water has gone and ingredients start to brown
+```{=typst}
+#block(inset: 0.25em)[
+      #text(weight: "bold", size: 2em)[Steak Ragu (cont.)]
+    ]
+#line(length: 75%)
+```
+5. Deglaze the pan with red wine for 1 min
+6. Add tomatoes, turn heat to low, and cover
+7. Simmer for 5 hours or when steak breaks apart on stirring
+    - Stir every 30 mins, add <50ml water if drying out

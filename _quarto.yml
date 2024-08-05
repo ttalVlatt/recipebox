@@ -26,9 +26,10 @@ website:
     style: "docked"
     search: true
     contents:
-      - index.qmd
-      - section: "Bread"
-        contents: "bread/*"
+      - section: "Sourdough"
+        contents: "sourdough/*"
+      - section: "Italian"
+        contents: "italian/*"
     collapse-level: 1
 
   page-footer:

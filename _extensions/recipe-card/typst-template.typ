@@ -114,3 +114,7 @@
   inset: 6pt,
   stroke: none
 )
+
+#show par: set block(spacing: 0.5em)
+
+#set list(marker: [--], tight: true)

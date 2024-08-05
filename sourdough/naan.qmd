@@ -1,0 +1,51 @@
+---
+title: Naan Bread
+format: recipe-card-typst
+---
+
+`#line(length: 75%)`{=typst}
+
+Fluffy sourdough naan bread with optional fillings. Pair peshwari naan 
+`\`{=typst}
+with [tandori chicken](../indian/tandori-chicken.qmd) for Matt's favorite Indian take away.
+
+<!-- https://typst.app/universe/package/fontawesome/ -->
+`#import "@preview/fontawesome:0.4.0": *`{=typst}
+
+`//#fa-icon("basket-shopping") #text(1.5em)[#underline[Ingredients]]`{=typst}
+
+`#text(1.5em)[#underline[Ingredients]]`{=typst}
+
+- 300g all purpose flour
+- 125g sourdough discard
+- 75g Greek yogurt
+- 50g milk
+- 50g water
+- 5g salt
+- 1/2 stick of melted butter (to baste naan)
+- For garlic naan; 3 cloves minced garlic, 1/2 bunch cilantro (add to butter)
+- For peshwari naan; 1/4 cup shaved coconut, coconut oil, honey, & sugar (stuff naan)
+
+`//#fa-icon("fire-burner") #text(1.5em)[#underline[Directions]]`{=typst}
+
+`#text(1.5em)[#underline[Directions]]`{=typst}
+
+1. Combine all ingredients (except butter and flavorings) by hand into wet dough
+2. Knead for 10 minutes until dough is smooth (still a little sticky)
+3. Rise for 2 hours on counter then in the fridge until ready to cook
+
+```{=typst}
+#block(inset: 0.25em)[
+      #text(weight: "bold", size: 2em)[Naan Bread (cont.)]
+    ]
+#line(length: 75%)
+```
+4. Preheat cast iron skillet on medium heat
+5. Hand stretch dough into naan shapes
+    - Optional: If stuffed naan, add stuffing, fold over, and reshape
+6. Brush top side of naan with melted butter then place that side down in the
+`\`{=typst}
+hot skillet
+7. Cook for 3 mins per side, brushing second side with butter before flipping
+
+

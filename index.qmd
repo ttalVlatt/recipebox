@@ -1,6 +1,0 @@
----
-title: "Capaldi Recipe Box"
-image: apple-touch-icon.png
----
-
-A collection of recipes from Picinisco to York to Florida

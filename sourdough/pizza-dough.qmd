@@ -1,0 +1,24 @@
+---
+title: Pizza Dough
+format: recipe-card-typst
+---
+
+`#line(length: 75%)`{=typst}
+
+Flavorsome dough ready for heat of the pizza oven inspired by King 
+`\`{=typst}
+Arthur Flour Co.
+
+`#text(1.5em)[#underline[Ingredients]]`{=typst}
+
+- 300g all purpose flour
+- 225g sourdough discard
+- 150g water
+- 5g salt
+
+`#text(1.5em)[#underline[Directions]]`{=typst}
+
+1. Combine all ingredients by hand into wet dough
+2. Knead for 10 minutes until dough is smooth and less sticky
+3. Drizzle olive oil in bowl then return dough to rest for 4+ hours on counter
+4. Divide, hand stretch, add toppings, and slide into the oven!

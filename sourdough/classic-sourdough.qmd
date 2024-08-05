@@ -1,15 +1,19 @@
 ---
-title: Pain de Campagne
+title: Classic Sourdough
 format: recipe-card-typst
 ---
 
 `#line(length: 75%)`{=typst}
 
-<!-- https://typst.app/universe/package/fontawesome/ -->
+A basic sourdough bread recipe inspired by King Arthur Flour Co.
 
+<!-- https://typst.app/universe/package/fontawesome/ -->
 `#import "@preview/fontawesome:0.4.0": *`{=typst}
 
-`#fa-icon("basket-shopping") #text(1.5em)[#underline[Ingredients]]`{=typst}
+`//#fa-icon("basket-shopping") #text(1.5em)[#underline[Ingredients]]`{=typst}
+
+`#text(1.5em)[#underline[Ingredients]]`{=typst}
+
 
 - 450g bread flour
 - 50g whole wheat flour
@@ -17,7 +21,10 @@ format: recipe-card-typst
 - 10g salt
 - 20g (1 tbsp) sourdough discard
 
-`#fa-icon("fire-burner") #text(1.5em)[#underline[Directions]]`{=typst}
+`//#fa-icon("fire-burner") #text(1.5em)[#underline[Directions]]`{=typst}
+
+`#text(1.5em)[#underline[Directions]]`{=typst}
+
 
 1. Combine all ingredients by hand into wet shaggy mess
 2. Wait 15 mins then fold dough 3 times
@@ -27,17 +34,19 @@ format: recipe-card-typst
 5. Shape into a round, cover, and rest for 15-20 mins
 6. Shape into a batard, place in floured baneton, and rest in fridge for 8 hours
 7. Preheat bread pan in oven to 450&deg; F
-8. Flip dough from baneton to parchment paper and score the top with lame
 
 ```{=typst}
 #block(inset: 0.25em)[
-      #text(weight: "bold", size: 2em)[Pain de Campagne (cont.)]
+      #text(weight: "bold", size: 2em)[Classic Sourdough (cont.)]
     ]
 #line(length: 75%)
 ```
 
-9. Place dough in hot pan, add a drop water each side, place lid on, 
+8. Flip dough from baneton to parchment paper and score the top with
 `\`{=typst}
-and put in oven
+lame
+9. Place dough in hot pan, add a drop water each side, place lid on, and 
+`\`{=typst}
+place in oven
 10. Bake for 20 mins lid on, then 25 mins lid off
 
