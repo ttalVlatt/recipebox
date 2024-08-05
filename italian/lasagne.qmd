@@ -35,9 +35,6 @@ A slight twist on a classic dish perfect for an Italian Christmas Eve
   - 1/2 cup milk
   - Nutmeg to taste (optional)
 
-
-
-
 `#text(1.5em)[#underline[Directions]]`{=typst}
 
 1. Fry off onion & garlic until soft

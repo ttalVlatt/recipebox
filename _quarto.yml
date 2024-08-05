@@ -1,11 +1,5 @@
 project:
   type: website
-  pre-render:
-    - site-attachments/packages.R
-    - site-attachments/purl-r-scripts.R
- # post-render: 
-   # - site-attachments/docx2pdf.R
-    # - site-attachments/create-example-folder.R
   render: 
     - "*.qmd"
     - "!recipe-card.qmd"
@@ -14,15 +8,16 @@ project:
   #   - CNAME
     
 website:
-  title: "Capaldi Recipe Box"
+  title: "Capaldi's Recipe Box"
   site-url: "https://capaldi.info/recipebox"
   description: ""
   image: "apple-touch-icon.png"
   favicon: "apple-touch-icon.png"
   twitter-card: true
   open-graph: true
-  navbar: false
   sidebar:
+    title: false
+    subtitle: "From Picinisco"
     style: "docked"
     search: true
     contents:
@@ -32,23 +27,15 @@ website:
         contents: "italian/*"
     collapse-level: 1
 
-  page-footer:
-    right: 
-      - text: "Built with Quarto"
-        href: https://quarto.org/docs/websites
-      - icon: github
-        aria-label: Website Code Available Here
-        href: https://github.com/ttalVlatt/recipebox
-    left:
-      - text: "M.J. Capaldi"
-        href: https://capaldi.info
-
       
 format:
   html:
-    theme: lux
-    css: site-attachments/styles.css
-    toc: false
+    theme: sketchy
+    #page-layout: custom
+    css: styles.css
+    # https://fonts.google.com/specimen/Neucha
+    mainfont: Bradley Hand
+    fontsize: 20pt
     email-obfuscation: references
     anchor-sections: false
 
