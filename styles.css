@@ -1,0 +1,23 @@
+/* Hide content on the index page
+#quarto-document-content {
+  background-color: blue;
+  /*display: none;
+}
+*/
+
+#quarto-sidebar {
+  background-color: #fbf9c2;
+  width: 100dvw !important;
+  overflow: visible !important;
+}
+
+#quarto-sidebar.collapse {
+    display: block !important;
+    height: auto !important;
+    overflow: visible !important;
+    transition: none !important;
+}
+
+.quarto-btn-toggle {
+    display: none !important; /* Ensure the button is not displayed */
+}
