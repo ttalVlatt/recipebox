@@ -26,9 +26,7 @@ Capaldi's classic slow-cooked ragu
 3. Add steak, season with salt and pepper, and fry until sealed
 4. Add mushrooms and fry until water has gone and ingredients start to brown
 ```{=typst}
-#block(inset: 0.25em)[
-      #text(weight: "bold", size: 2em)[Steak Ragu (cont.)]
-    ]
+#block(inset: 0.25em)[#text(weight: "bold", size: 2em)[Steak Ragu (cont.)]]
 #line(length: 75%)
 ```
 5. Deglaze the pan with red wine for 1 min

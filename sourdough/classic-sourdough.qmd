@@ -36,9 +36,7 @@ A basic sourdough bread recipe inspired by King Arthur Flour Co.
 7. Preheat bread pan in oven to 450&deg; F
 
 ```{=typst}
-#block(inset: 0.25em)[
-      #text(weight: "bold", size: 2em)[Classic Sourdough (cont.)]
-    ]
+#block(inset: 0.25em)[#text(weight: "bold", size: 2em)[Classic Sourdough (cont.)]]
 #line(length: 75%)
 ```
 

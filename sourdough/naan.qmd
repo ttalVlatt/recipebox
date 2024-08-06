@@ -35,9 +35,7 @@ with [tandori chicken](../indian/tandori-chicken.qmd) for Matt's favorite Indian
 3. Rise for 2 hours on counter then in the fridge until ready to cook
 
 ```{=typst}
-#block(inset: 0.25em)[
-      #text(weight: "bold", size: 2em)[Naan Bread (cont.)]
-    ]
+#block(inset: 0.25em)[#text(weight: "bold", size: 2em)[Naan Bread (cont.)]]
 #line(length: 75%)
 ```
 4. Preheat cast iron skillet on medium heat

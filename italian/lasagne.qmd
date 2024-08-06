@@ -25,9 +25,7 @@ A slight twist on a classic dish perfect for an Italian Christmas Eve
 - White sauce
   - 12oz mascarpone
 ```{=typst}
-#block(inset: 0.25em)[
-      #text(weight: "bold", size: 2em)[Lasagne (cont.)]
-    ]
+#block(inset: 0.25em)[#text(weight: "bold", size: 2em)[Lasagne (cont.)]]
 #line(length: 75%)
 ```
 - White sauce (cont.)  

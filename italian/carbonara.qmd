@@ -11,17 +11,23 @@ A quick and simple Italian staple inspired by James May's 'Oh Cook!'
 
 - 1/4lb pancetta
 - 3 cloves garlic
-- 1lb of chopped mushrooms
+- 1/2lb of chopped mushrooms
 - 1 whole egg plus 1 egg yolk
-- 3/4 cup parmesan cheese
+- 1/2 cup parmesan cheese
+- 1/2 cup cream
 - 2 cups penne (or other pasta)
+- Fresh basil
 
 `#text(1.5em)[#underline[Directions]]`{=typst}
 
-1. Mix eggs & cheese and set aside
+1. Mix eggs, cheese, & cream and set aside
 2. Boil pasta for 10 mins
-3. Fry off pancetta & garlic on medium heat until browned then drain excess grease
-5. Add mushrooms and fry until soft
-6. Drain cooked pasta and add to mix
-7. Add egg & cheese mix, begin stirring immediately
-8. Kill the heat but continue stirring mix for 2-3 mins
+3. Fry off pancetta & garlic on medium heat until browned then rest on paper towel
+4. Add mushrooms to pan, season with black pepper, and fry until soft
+5. Drain cooked pasta and add to mix
+```{=typst}
+#block(inset: 0.25em)[#text(weight: "bold", size: 2em)[Carbonara (cont.)]]
+#line(length: 75%)
+```
+6. Add egg mix & fresh basil then begin stirring immediately
+7. Kill the heat but continue stirring mix for 2-3 mins
