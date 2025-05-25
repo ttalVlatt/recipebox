@@ -118,3 +118,10 @@
 #show par: set block(spacing: 0.5em)
 
 #set list(marker: [--], tight: true)
+
+// headings
+#show heading: set text(12pt) // set all headings to 12pt text
+#show heading.where(level: 1): set align(center) // center level one headings
+#show heading.where(level: 3): set text(style: "italic")
+#show heading.where(level: 4): it => text(it.body + [.]) // h/t https://github.com/mvuorre/quarto-apaish/blob/main/_extensions/apaish-document/typst-template.typ
+#show heading.where(level: 5): it => text(it.body + [.], style: "italic")

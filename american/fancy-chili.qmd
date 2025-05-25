@@ -1,0 +1,40 @@
+---
+title: Fancy Chili
+format: recipe-card-typst
+---
+
+`#line(length: 75%)`{=typst}
+
+James May's "fancy chili" from 'Oh Cook' season one
+
+`#text(1.5em)[#underline[Ingredients]]`{=typst}
+
+- 1 red onion
+- 3+ cloves garlic
+- 1 lb flank steak
+- 2 tbsp paprika
+- 1 tbsp celery salt
+- 1 tbsp cayenne
+- 2-3 tbsp tomato puree
+- 1 ancho chili
+- 1 scotch bonnet (or sprinkle of smoked ghost chili)
+- 1 can of tomatoes
+- 1 cup of beef stock
+- 1 can red kidney beans, chickpeas, & canellini beans
+
+`#text(1.5em)[#underline[Directions]]`{=typst}
+
+1. Heat a large oven-proof pan on medium-high
+
+```{=typst}
+#block(inset: 0.25em)[#text(weight: "bold", size: 2em)[Fancy Chili (cont.)]]
+#line(length: 75%)
+```
+2. Fry off onion & garlic
+3. Add dried spices and fry for 1-2 mins
+4. Add beef and fry until brown
+5. Add tomato puree, beans, and fresh chilis and fry for 1-2 mins
+6. Add the tomatoes and beef stock and cook for 5 mins before  
+tasting/seasoning
+7. Either simmer on low or bake at 300&deg;F/150&deg;C for 5 hours checking every  
+~30 mins adding water as needed

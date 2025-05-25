@@ -1,0 +1,24 @@
+---
+title: Classic Pizza Sauce
+format: recipe-card-typst
+---
+
+`#line(length: 75%)`{=typst}
+
+Makes enough for 2-3 pizzas
+
+`#text(1.5em)[#underline[Ingredients]]`{=typst}
+
+- 2-3 gloves garlic
+- 1 can san marzanino (baby san marzino) tomatoes
+- Splash of dry red wine (zinfandel)
+- Few leaves of fresh basil
+
+`#text(1.5em)[#underline[Directions]]`{=typst}
+
+1. Fry garlic on medium heat for 1-2 mins until soft
+2. Add tomatoes and bring to boil
+3. Add splash of red wine and season with salt and pepper
+4. Mash the sauce to remove large lumps
+5. Simmer on low for 45 mins
+6. Add fresh basil and season to taste

@@ -1,0 +1,37 @@
+---
+title: Lemon & Fish Pasta
+format: recipe-card-typst
+---
+
+`#line(length: 75%)`{=typst}
+
+A simple lemon and fish pasta, an attempt to recreate a trout pasta from  
+a restaurant in the middle of one of the Italian lakes
+
+`#text(1.5em)[#underline[Ingredients]]`{=typst}
+
+- 2 shallots
+- 3 cloves garlic
+- 3 anchovies
+- 2 tbsp capers
+- Juice of 1/2 a lemon
+- 1/2 cup of dry white wine
+- 2-3 tbsp butter
+- 2 trout filets (or sea bass)
+- Packet of cherry tomatoes
+
+`#text(1.5em)[#underline[Directions]]`{=typst}
+
+1. Boil water, add penne pasta for 9 mins when boiling
+2. On low-heat in small pan fry shallots and garlic until soft
+3. Add anchovies and capers and fry for 1-2 mins
+```{=typst}
+#block(inset: 0.25em)[#text(weight: "bold", size: 2em)[Lemon & Fish Pasta (cont.)]]
+#line(length: 75%)
+```
+4. Add white wine, lemon juice, and butter and keep warm of lowest heat
+5. Fry off the tomatoes in a medium-hot skillet with olive oil, salt,  
+and pepper until just starting to blister
+6. Pat sea bass dry and season top side with salt and pepper
+7. Fry sea bass in medium-hot skillet skin side down first for 3-4 mins
+8. Flip sea bass and fry for 2-3 mins
